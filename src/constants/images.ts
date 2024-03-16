@@ -1,0 +1,22 @@
+const IMAGES = {
+  calendar: require("../assets/images/calendar.png"),
+  bannerImage: require("../assets/images/bannerImage.png"),
+  brain: require("../assets/images/brain.png"),
+  dentist: require("../assets/images/dentist.png"),
+  dna: require("../assets/images/dna.png"),
+  Doc1: require("../assets/images/Doc1.png"),
+  Doc2: require("../assets/images/Doc2.png"),
+  Doc3: require("../assets/images/Doc3.png"),
+  Doc4: require("../assets/images/Doc4.png"),
+  Doc5: require("../assets/images/Doc5.png"),
+  Doc6: require("../assets/images/Doc6.png"),
+  Filter: require("../assets/images/filter.png"),
+  people: require("../assets/images/people.png"),
+  experience: require("../assets/images/experience.png"),
+  rating: require("../assets/images/star.png"),
+  message: require("../assets/images/message.png"),
+  call: require("../assets/images/call.png"),
+  video: require("../assets/images/video.png"),
+  bg: require("../assets/images/BG.png"),
+};
+export { IMAGES };
